@@ -1,0 +1,2 @@
+# beautypro
+Magento Beauty Pro
